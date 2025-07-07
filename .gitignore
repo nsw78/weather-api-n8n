@@ -1,1 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
 .env
+
+# Virtual env
+.venv/
+venv/
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.DS_Store
